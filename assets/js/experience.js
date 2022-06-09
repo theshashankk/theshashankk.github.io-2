@@ -55,14 +55,10 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "yui Project",
-    cardImage: "https://telegra.ph/file/c83b000f004f01897fe18.png",
-    description: "Responsible for handling the project",
-  },
-  {
-    title: "LionX",
-    cardImage: "https://cdn5.telegram-cdn.org/file/awMdMSQUrGJcVI0jnQCgl9Akutx__lFOuH66VOHhC7wfK7iCN9OkuAz6vHC89gudp37XVnX84LJfvJUzUkeY9IV73ZWE4n43ysTnAZfm_Pw3FkBsgnXikdzsK0WjKHHFKDNO0z0WoiWQI4bPLY5_8gai-xUQBymtVxji1W-Xrjelr-l58TSv7xJAn2v7_SCuMsYGzvhqz4TIp9qrGiUq09UOLj4gF111e2Zu6Zz0YDwel0b8IGphpp94VPAqDSFxiQ5MHUugEHn2phSV19LmWT2sZQ2YxD3vvYii3q2HJ4K9F-LKsDICHEf5aj6OxVESkGAZj9C4LhQFU6jWPj9rdg.jpg",
-    description: "Responsible for handling the project",
+    title: "OMEGA PROJECTS",
+    cardImage: "assets/images/experience-page/1.jpg",
+    description:
+      "Responsible for handling the project ",
   },
   {
     title: "StudentCode-in 2020",
@@ -71,10 +67,16 @@ const volunteershipcards = [
       "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
   },
   {
-    title: "PClub Summer Of Code 2020",
+    title: "Iwallet",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Mentoring for the iwallet.",
+  },
+  {
+    title: "Hakin-Codes",
+    cardImage: "assets/images/experience-page/4.jpg",
+    description:
+      "Was developing hacking and ddos tools.",
   },
 ];
 
